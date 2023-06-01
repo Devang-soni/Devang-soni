@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Web Development 👨🏻‍💻| C++ ⚒️| Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pawarspeaks](https://github.com/Devang-soni)
+- 👨‍💻 All of my projects are available at [https://github.com/Devang-soni](https://github.com/Devang-soni)
 
 - 📧 Reachout to me at **devangvinodsoni@gmail.com**
 

@@ -54,4 +54,4 @@
 ![Devang's github stats](https://github-readme-stats.spielers.vercel.app/api?username=Devang-soni&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=Devang-soni&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-soni&&theme=chartreuse-dark" alt="pawarspeaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-soni&&theme=chartreuse-dark" alt="Devang-Soni" /></p>

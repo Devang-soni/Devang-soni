@@ -55,3 +55,9 @@
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=Devang-soni&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-soni&&theme=chartreuse-dark" alt="Devang-Soni" /></p>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Devang-soni&icon=9&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
